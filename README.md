@@ -6,7 +6,7 @@ A Simple Music Downloader Bot For Telegram with Youtube Music, Spotify & Deezer 
     <a href="https://python.org">
         <img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python">
     </a>
-    <a href="https://GitHub.com/rozari0">
+    <a href="https://GitHub.com/wagon89">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
     </a> <br>
     <img src="https://img.shields.io/github/license/rozari0/MusicDownloader?style=for-the-badge&logo=appveyor" alt="LICENSE">
@@ -22,7 +22,7 @@ A Simple Music Downloader Bot For Telegram with Youtube Music, Spotify & Deezer 
 
 ## Demo
 
-[You Need Music?](https://t.me/NeedMusicRobot)
+[You Need Music?]([(http://t.me/youtube_musicDownloadbot])
 
 
 ## Deployment
