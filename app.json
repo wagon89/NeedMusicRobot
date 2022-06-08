@@ -6,24 +6,24 @@
     "music",
     "music downloader"
   ],
-  "repository": "https://github.com/wagon89/NeedMusicRobot",
-  "website": "https://t.me/youtube_musicDownloadbot",
-  "success_url": "https://t.me/youtube_musicDownloadbot",
+  "repository": "https://github.com/wagon89/NeedMusicRobot/",
+  "website": "https://t.me/NeedMusicRobot",
+  "success_url": "https://t.me/NeedMusicRobot",
   "env": {
     "API_ID": {
-      "description": "15151149",
+      "description": "Your Telegram API ID",
       "value": ""
     },
     "API_HASH": {
-      "description": "c547b0835aae96b4839f3c33794ba11c",
+      "description": "Get this value from my.telegram.org! Please do not steal",
       "value": ""
     },
     "BOT_TOKEN": {
-      "description": "5363703793:AAEsGLNlDt0-RazBBf31KSRwUreq_RCebfA",
+      "description": "Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
       "value": ""
     },
     "OWNER_ID": {
-      "description": "wagon89",
+      "description": "The ID of the owner of the bot",
       "value": ""
     },
     "SUDO_USERS": {
@@ -37,7 +37,7 @@
       "required": false
     },
     "LOG_GROUP": {
-      "description": "youtube_musicbo",
+      "description": "The ID of the group to log to",
       "value": "",
       "required": false
     },
